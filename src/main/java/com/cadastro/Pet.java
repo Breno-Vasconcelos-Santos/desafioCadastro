@@ -18,4 +18,6 @@ public class Pet {
     private double peso;
     private String raca;
     private Endereco endereco;
+    private Sexo sexoPet;
+    private TipoAnimal tipoPet;
 }
