@@ -1,6 +1,6 @@
 package com.cadastro;
 
-public enum Tipo {
+public enum TipoAnimal {
     CACHORRO,
     GATO
 }
