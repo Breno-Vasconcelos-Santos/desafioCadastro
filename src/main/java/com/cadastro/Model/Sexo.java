@@ -1,4 +1,4 @@
-package com.cadastro;
+package com.cadastro.Model;
 
 public enum Sexo {
     MACHO("Macho"),

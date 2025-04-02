@@ -1,4 +1,4 @@
-package com.cadastro;
+package com.cadastro.Model.Entidades;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

@@ -1,5 +1,7 @@
-package com.cadastro;
+package com.cadastro.Model.Entidades;
 
+import com.cadastro.Model.Sexo;
+import com.cadastro.Model.TipoAnimal;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
